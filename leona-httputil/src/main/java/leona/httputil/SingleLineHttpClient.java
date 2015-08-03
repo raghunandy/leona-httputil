@@ -5,11 +5,7 @@
  */
 package leona.httputil;
 
-import com.sun.xml.internal.ws.util.StreamUtils;
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
-import java.io.StringWriter;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import org.apache.commons.io.IOUtils;
