@@ -6,5 +6,5 @@ The main aim of this leona-httputil specification is to make developer's life mu
 
 Especially Http util libraries are very cumbersome with many lines of codes and examples. Leon http util will make developer life easy.
 ```
-  instance.post("http://google.com", "what ever data");
+  SingleLineHttpClient.instance().post("http://google.com", "what ever data");
 ```
